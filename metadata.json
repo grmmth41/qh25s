@@ -1,0 +1,8 @@
+{
+  "name": "Azota - Giao bai tap va De thi",
+  "description": "He thong giao bai tap, de thi Azota tich hop Cong On Thi Trac Nghiem Năng luc so.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
